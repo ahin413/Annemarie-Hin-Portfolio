@@ -9,7 +9,7 @@ body{
     color: whitesmoke;
     text-align: center;
     height: 600px;
-    border: solid;
+   
 }
 
 .container{
@@ -36,7 +36,7 @@ h1{
 .top{
     background-color:#c071fe;  
     position: fixed;
-    justify-content: center;
+    
    color: whitesmoke;
    text-align: center;
    font-family:Poiret One, cursive;
@@ -48,7 +48,7 @@ a{
     text-align:center;
     color: whitesmoke;
     justify-content: center;
-    margin: auto;
+    
 }
 
 h2{
@@ -92,4 +92,8 @@ h3{
 button{
     background-color:whitesmoke;
     color:#c071fe;
+}
+img{
+    border:solid;
+    border-color:#c071fe;
 }
