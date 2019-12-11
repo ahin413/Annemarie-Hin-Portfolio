@@ -1,0 +1,71 @@
+body{
+    background-color:whitesmoke
+}
+
+
+.jumbotron{
+    background-color:#c071fe;  
+    color: whitesmoke;
+    text-align: center;
+    height: 600px;
+}
+
+.container{
+    background-color:#c071fe;     
+}
+
+img{
+    border: solid;
+    border-color:#c071fe;
+}
+
+h1{
+    font-size:72px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.display-4{
+
+    font-size:125px;
+}
+
+.lead{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.top{
+    background-color:#c071fe;  
+    position: fixed;
+    justify-content: center;
+   color: whitesmoke;
+   text-align: center;
+    
+}
+
+a{
+    text-align: center;
+    color: whitesmoke;
+    justify-content: center;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    color:#c071fe;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    color: #c071fe;
+}
+
+.card-footer{
+    color: black;
+    background-color:#c071fe
+
+}
+
+.me{
+    text-align: center;
+}
