@@ -8,6 +8,7 @@ body{
     color: whitesmoke;
     text-align: center;
     height: 600px;
+    border: solid;
 }
 
 .container{
@@ -21,7 +22,7 @@ img{
 
 h1{
     font-size:72px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Poiret One, cursive;
 }
 
 .display-4{
@@ -31,7 +32,7 @@ h1{
 
 .lead{
     font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Poiret One, cursive;
 }
 
 .top{
@@ -54,7 +55,7 @@ h2{
     text-align: center;
     color:#c071fe;
     font-size: 50px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Poiret One, cursive;
 }
 hr{
     color: #c071fe;
@@ -76,14 +77,16 @@ hr{
 
 .contactme{
     height: 500px;
+   background-color:#c071fe;
+   border: solid;
+   border-color: whitesmoke;
   
-    background-color:#c071fe ;
 }
 h3{
     color: whitesmoke;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    padding-top: 10px;
+    font-family: Poiret One, cursive;
+    padding-top: 30px;
 }
 
 button{
