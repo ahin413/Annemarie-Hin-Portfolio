@@ -35,7 +35,9 @@ h1{
 
 .top{
     background-color:#c071fe;  
-    position: fixed;
+    text-align: center;
+    align-content: center;
+ 
     
    color: whitesmoke;
    text-align: center;
