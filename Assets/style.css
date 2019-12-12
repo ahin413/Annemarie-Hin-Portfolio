@@ -2,7 +2,6 @@ body{
     background-color:whitesmoke
 }
 
-
 .jumbotron{
     top: 0;
     background-color:#c071fe;  
@@ -15,8 +14,6 @@ body{
 .container{
     background-color:#c071fe;     
 }
-
-
 
 h1{
     font-size:72px;
@@ -37,11 +34,9 @@ h1{
     background-color:#c071fe;  
     text-align: center;
     align-content: center;
- 
-    
-   color: whitesmoke;
-   text-align: center;
-   font-family:Poiret One, cursive;
+    color: whitesmoke;
+    text-align: center;
+    font-family:Poiret One, cursive;
    font-size: 24px;
     
 }
@@ -50,6 +45,7 @@ a{
     text-align:center;
     color: whitesmoke;
     justify-content: center;
+    font-family:Poiret One, cursive;
     
 }
 
@@ -71,6 +67,7 @@ hr{
 
 .me{
     text-align: center;
+    
 }
 .contact{
     margin-left: 30px;
@@ -98,4 +95,29 @@ button{
 img{
     border:solid;
     border-color:#c071fe;
+}
+.btn.btn-primary{
+    background-color:whitesmoke;
+    color:#c071fe;
+    border-color:#c071fe;
+    font-family:Poiret One, cursive;
+
+}
+label{
+    color: whitesmoke;
+    font-family:Poiret One, cursive;
+    font-size: 20px;
+}
+h5{
+    color:#c071fe;
+    font-family:Poiret One, cursive;
+    font-size:24px;
+}
+p1{
+    color:#c071fe;
+    font-family:Poiret One, cursive;
+    font-size: 24px;
+}
+.navbar-brand.mx-auto{
+    font-family:Poiret One, cursive;
 }
